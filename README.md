@@ -13,5 +13,5 @@ Python 2.7
 
 ## Authors
 
-* **Billie Thompson** - *Initial work*
+* **Camille Avestruz** - *Initial work*
 * **Kuang Wei** - *Modification*
